@@ -1,6 +1,6 @@
 # Accordion
 
-**RESPONSIVE** **ACCORDION** with using **HTML** , **CSS** , 
+**RESPONSIVE** **ACCORDION** with using **HTML** , **CSS** , **JS** ,
 
 
 
