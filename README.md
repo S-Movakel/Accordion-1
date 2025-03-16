@@ -1,4 +1,4 @@
-## Accordionoooo
+## Accordionooo
 
 **RESPONSIVE** **ACCORDION** with using **HTML** , **CSS** , **JS** , **SASS**
 
