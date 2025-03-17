@@ -1,4 +1,4 @@
-## ACCORDION-1
+## ACCORDION
 **ACCORDION** project using **HTML** , **CSS** , **JavaScript** and using the **SASS**
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
