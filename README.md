@@ -1,5 +1,5 @@
 ## ACCORDION
-**ACCORDION** project using **HTML** , **CSS** , **JavaScript** and using the **SASS**
+**ACCORDION** project using **HTML** , **CSS** , **JavaScript** and **SASS**
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
 
