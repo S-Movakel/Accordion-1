@@ -13,7 +13,7 @@
 🖥️ Please click on the **LINK** below to view the demo.
 
 
-[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=javascript)](https://S-Movakel.github.io/Accordion-1)
+[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=javascript)](https://S-Movakel.github.io/Accordion-1)
 
 
 ## 🚀 My PROJECT
